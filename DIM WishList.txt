@@ -1,0 +1,4 @@
+dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,2869569095,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
