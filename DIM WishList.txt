@@ -141,7 +141,13 @@ dimwishlist:item=3745990145&perks=893526892,1087426260,247725512,3400784728
 	//Firmly Planted/Triple Tap
 
 		//Appended Mag
-dimwishlist:item=3745990145&perks=893526892,1087426260,280464955,3400784728	
+dimwishlist:item=3745990145&perks=893526892,1087426260,280464955,3400784728
+
+//Dime's Falling Guillotine Rolls, PvE. Recommended MW - Impact
+
+	//Relentless Strikes/Whirlwind Blade
+dimwishlist:item=614426548&perks=1749209109,3913600130
+	
 
 
 
