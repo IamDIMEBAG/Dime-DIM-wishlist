@@ -527,6 +527,7 @@ dimwishlist:item=2742490609&perks=1482024992,2779035018
 dimwishlist:item=2742490609&perks=2779035018,1015611457
 dimwishlist:item=2742490609&perks=1168162263,1015611457
 dimwishlist:item=2742490609&perks=1015611457
+dimwishlist:item=2742490609&perks=2779035018
 
 
 //Season of Arrivals Rolls
