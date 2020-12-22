@@ -22,10 +22,12 @@
 	//Prophecy Dungeon 
 		//Death Adder (PvE)
 		//IKELOS_SG_v1.0.2 (PvE)
+		//IKELOS_SR_v1.0.2 (PvE)
 	//Season of Worthy
 		//Seventh Seraph CQC-12 (Both)
 		//Seventh Seraph VY-7 (Both)
 		//Seventh Seraph Carbine (PvE)
+		//Seventh Seraph Officer Revolver (PvE)
 	//Leagacy God Rolls
 		//Mindbenders Ambition (PvP)
 		//Waking Vigil (PvP)
