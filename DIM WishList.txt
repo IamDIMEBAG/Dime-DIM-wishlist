@@ -1,3 +1,34 @@
+//Included Weapons//
+	//The Dawning
+		//Cold Front (PvE)
+		//Avalanche (PvP)
+		//Glacioclasm (PvP)
+	//Iron Banner
+		//The Steady Hand (PvP)
+	//Season of The Hunt
+		//Whispering Slab (PvE)
+		//Royal Chase (PvE)
+		//Xenoclast (PvE)
+	//Beyond Light
+		//Stars in Shadow (PvP)
+	//Season of Arrivals
+		//The Long Shadow (PvE)
+		//Falling Guillotine (PvE)
+		//Gnawing Hunger (Both)
+		//Arsenic Bite (PvE)
+		//Truthteller (Both)
+	//Garden of Salvation
+		//Anciet Gospel (Both)
+	//Prophecy Dungeon 
+		//Death Adder (PvE)
+		//IKELOS_SG_v1.0.2 (PvE)
+	//Season of Worthy
+		//Seventh Seraph CQC-12 (Both)
+		//Seventh Seraph VY-7 (Both)
+		//Seventh Seraph Carbine (PvE)
+	//Leagacy God Rolls
+		//Mindbenders Ambition (PvP)
+		//Waking Vigil (PvP)
 //The Dawning Rolls
 
 	//Dime's Cold Front Rolls, PvE. Recommended MW - Range/Reload
